@@ -7,8 +7,8 @@ translation/scenes/
 3000xxxx - Maze/Other Tutorials?
 
 4000xxxx - Character Episodes
-    - 5000xxx1 - Story
-    - 5000xxx2 - HScene
+    - 4000xxx1 - Story
+    - 4000xxx2 - HScene
 
 5000xxxx - Memory Episodes
     - 5000xxx1 - Story
