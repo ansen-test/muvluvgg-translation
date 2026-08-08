@@ -21,6 +21,7 @@ translation/static/*.json
 HomeSpeechMaster - Dialogue on home screen
 TalkMaster - Phone call Label
 TalkMessageMaster - Phone Call Dialogue
+SceneBranchSelectionMaster - Choices
 SnsAccountMaster - Tweety Account Name
 SnsPostBranchSelectionMaster - Tweety Replies
 SnsPostMaster - Tweety Posts
