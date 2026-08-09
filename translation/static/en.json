@@ -19413,26 +19413,26 @@
   },
   "TypeEquipmentMaster": {
     "Name": {
-      "物理タイプ装備センサー": "物理タイプ装備センサー",
-      "物理タイプ装備アクチュエーター": "物理タイプ装備アクチュエーター",
-      "物理タイプ装備バッテリー": "物理タイプ装備バッテリー",
-      "物理タイプ装備ジェットエンジン": "物理タイプ装備ジェットエンジン",
-      "ENタイプ装備センサー": "ENタイプ装備センサー",
-      "ENタイプ装備アクチュエーター": "ENタイプ装備アクチュエーター",
-      "ENタイプ装備バッテリー": "ENタイプ装備バッテリー",
-      "ENタイプ装備ジェットエンジン": "ENタイプ装備ジェットエンジン",
-      "敏捷タイプ装備センサー": "敏捷タイプ装備センサー",
-      "敏捷タイプ装備アクチュエーター": "敏捷タイプ装備アクチュエーター",
-      "敏捷タイプ装備バッテリー": "敏捷タイプ装備バッテリー",
-      "敏捷タイプ装備ジェットエンジン": "敏捷タイプ装備ジェットエンジン"
+      "物理タイプ装備センサー": "Physical Type Equipment Sensor",
+      "物理タイプ装備アクチュエーター": "Physical Type Equipment Actuator",
+      "物理タイプ装備バッテリー": "Physical Type Equipment Battery",
+      "物理タイプ装備ジェットエンジン": "Physical Type Equipment Jet Engine",
+      "ENタイプ装備センサー": "EN Type Equipment Sensor",
+      "ENタイプ装備アクチュエーター": "EN Type Equipment Actuator",
+      "ENタイプ装備バッテリー": "EN Type Equipment Battery",
+      "ENタイプ装備ジェットエンジン": "EN Type Equipment Jet Engine",
+      "敏捷タイプ装備センサー": "Agility Type Equipment Sensor",
+      "敏捷タイプ装備アクチュエーター": "Agility Type Equipment Actuator",
+      "敏捷タイプ装備バッテリー": "Agility Type Equipment Battery",
+      "敏捷タイプ装備ジェットエンジン": "Agility Type Equipment Jet Engine"
     },
     "Description": {
-      "機体に搭載できる装備。物理タイプの生徒のHP・攻撃力を上昇させることができる。": "機体に搭載できる装備。物理タイプの生徒のHP・攻撃力を上昇させることができる。",
-      "機体に搭載できる装備。物理タイプの生徒のHP・防御力を上昇させることができる。": "機体に搭載できる装備。物理タイプの生徒のHP・防御力を上昇させることができる。",
-      "機体に搭載できる装備。ENタイプの生徒のHP・攻撃力を上昇させることができる。": "機体に搭載できる装備。ENタイプの生徒のHP・攻撃力を上昇させることができる。",
-      "機体に搭載できる装備。ENタイプの生徒のHP・防御力を上昇させることができる。": "機体に搭載できる装備。ENタイプの生徒のHP・防御力を上昇させることができる。",
-      "機体に搭載できる装備。敏捷タイプの生徒のHP・攻撃力を上昇させることができる。": "機体に搭載できる装備。敏捷タイプの生徒のHP・攻撃力を上昇させることができる。",
-      "機体に搭載できる装備。敏捷タイプの生徒のHP・防御力を上昇させることができる。": "機体に搭載できる装備。敏捷タイプの生徒のHP・防御力を上昇させることができる。"
+      "機体に搭載できる装備。物理タイプの生徒のHP・攻撃力を上昇させることができる。": "Equipment that can be mounted on a unit. It can increase the HP and attack power of physical-type students.",
+      "機体に搭載できる装備。物理タイプの生徒のHP・防御力を上昇させることができる。": "Equipment that can be mounted on a unit. It can increase the HP and defense power of physical-type students.",
+      "機体に搭載できる装備。ENタイプの生徒のHP・攻撃力を上昇させることができる。": "Equipment that can be mounted on a unit. It can increase the HP and attack power of EN-type students.",
+      "機体に搭載できる装備。ENタイプの生徒のHP・防御力を上昇させることができる。": "Equipment that can be mounted on a unit. It can increase the HP and defense power of EN-type students.",
+      "機体に搭載できる装備。敏捷タイプの生徒のHP・攻撃力を上昇させることができる。": "Equipment that can be mounted on a unit. It can increase the HP and attack power of agility-type students.",
+      "機体に搭載できる装備。敏捷タイプの生徒のHP・防御力を上昇させることができる。": "Equipment that can be mounted on a machine. It can increase the HP and defense power of agility-type students."
     }
   },
   "UnlockFunctionMaster": {
