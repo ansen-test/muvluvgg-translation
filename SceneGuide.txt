@@ -14,8 +14,6 @@ translation/scenes/
     - 5000xxx1 - Story
     - 5000xxx2 - HScene
 
-
-
 translation/static/*.json
 
 HomeSpeechMaster - Dialogue on home screen
