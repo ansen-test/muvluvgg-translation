@@ -3,7 +3,7 @@
   "private": false,
   "scripts": {
     "start": "node app.js",
-    "manifest": "node manifest.js",
+    "manifest": "node manifest.js zh_Hans en",
     "prepare": "husky"
   },
   "devDependencies": {
