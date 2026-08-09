@@ -141,3 +141,4 @@ translation/scenes/fix_keys.py
 translation/scenes/fix_tildes.py
 translation/scenes/fix_italics.py
 translation/static/key_updater.py
+translation/scenes/key_updater.py
