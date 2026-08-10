@@ -562,7 +562,8 @@
       "夏色シャイガール": "Summer-Colored Shy Girl",
       "渚のスイートデビル": "Beach Sweet Devil",
       "真夏の風紀委員長": "Midsummer Disciplinary Committee Chair",
-      "砂浜の策謀家": "Sandy Beach Strategist"
+      "砂浜の策謀家": "Sandy Beach Strategist",
+      "おたすけさんぽ・イン・サマー": "Helpful Stroll in Summer"
     }
   },
   "CharacterSchoolGroupMaster": {
@@ -1248,7 +1249,9 @@
         "姜小花「砂浜の策謀家」": "Jiang Xiaohua \"Beach Schemer\"",
         "波瀬うるう[夏色シャイガール]": "Hase Uruu [Summer-Colored Shy Girl]",
         "波瀬うるう「夏色シャイガール」": "Hase Uruu \"Summer-Colored Shy Girl\"",
-        "風紀紊乱れぴゅてーしょん": "Disciplinary Disorder Reputation"
+        "風紀紊乱れぴゅてーしょん": "Disciplinary Disorder Reputation",
+        "リディア・エルドリッジ[おたすけさんぽ・イン・サマー]": "Lydia Eldridge [Helpful Stroll in Summer]",
+        "リディア・エルドリッジ「おたすけさんぽ・イン・サマー」": "Lydia Eldridge \"Helpful Stroll in Summer\""
     },
     "SubTitle": {
       "別離": "Parting",
@@ -2108,7 +2111,16 @@
       "風流の味わい方": "How to Appreciate Elegance",
       "高みを目指して": "Aiming for Greater Heights",
       "高度な心理戦？": "Advanced Mind Games?",
-      "ＶＳ巨大かき氷！": "VS Giant Shaved Ice!"
+      "ＶＳ巨大かき氷！": "VS Giant Shaved Ice!",
+      "おたすけさんぽと夏のおたから": "A Helpful Stroll and Summer Treasures",
+      "ずっとずっとおともだち": "Friends Forever and Ever",
+      "リディアのおたすけ": "Lydia's Helping Hand",
+      "リディアのひんやりさがし": "Lydia's Search for Cool Spots",
+      "リバティのビーチへ": "Off to Liberty Beach",
+      "夏に飲むべきもの": "What to Drink in Summer",
+      "憧れの人魚？": "The Mermaid of My Dreams?",
+      "旧友との再会": "Reunion with an Old Friend",
+      "暑い日の小さな友達": "Little Friends on a Hot Day"
     }
   },
   "EventGroupMaster": {
@@ -9270,7 +9282,7 @@
       "お忍びシスターの冒険": "Incognito Sister's Adventure",
       "二人でお料理女子トーク": "Girls' Cooking Talk Together",
       "気になる装備": "Intriguing Equipment",
-      "おたすけさんぽ": "A Helping Stroll",
+      "おたすけさんぽ": "A Helpful Stroll",
       "エッ〇な罰ゲームやってみた": "Tried a Lewd Penalty Game",
       "翠蘭はユリアの……": "Suiran Is Julia's...",
       "駆け落ちフルスロットル！": "Elopement Full Throttle!",
@@ -9673,8 +9685,17 @@
       "風流の味わい方": "How to Taste Elegance",
       "高みを目指して": "Aiming for the Heights",
       "高度な心理戦？": "Advanced Psychological Warfare?",
-      "ＶＳ巨大かき氷！": "VS Giant Shaved Ice!"
-    }
+      "ＶＳ巨大かき氷！": "VS Giant Shaved Ice!",
+      "おたすけさんぽと夏のおたから": "A Helpful Stroll and Summer Treasures",
+      "ずっとずっとおともだち": "Friends Forever and Ever",
+      "リディアのおたすけ": "Lydia's Helping Hand",
+      "リディアのひんやりさがし": "Lydia's Search for Cool Spots",
+      "リバティのビーチへ": "Off to Liberty Beach",
+      "夏に飲むべきもの": "What to Drink in Summer",
+      "憧れの人魚？": "The Mermaid of My Dreams?",
+      "旧友との再会": "Reunion with an Old Friend",
+      "暑い日の小さな友達": "Little Friends on a Hot Day"
+      }
   },
   "SdCharacterMaster": {
     "Name": {
@@ -12426,7 +12447,8 @@
       "リリー・ラヴォア": "リリー・ラヴォア",
       "大賀真桜「真夏の風紀委員長」": "大賀真桜「真夏の風紀委員長」",
       "姜小花「砂浜の策謀家」": "姜小花「砂浜の策謀家」",
-      "波瀬うるう「夏色シャイガール」": "波瀬うるう「夏色シャイガール」"
+      "波瀬うるう「夏色シャイガール」": "波瀬うるう「夏色シャイガール」",
+      "リディア・エルドリッジ「おたすけさんぽ・イン・サマー」": "Lydia Eldridge \"Helpful Stroll in Summer\""
     }
   },
   "SnsPostBranchSelectionMaster": {
