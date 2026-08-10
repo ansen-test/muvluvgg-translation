@@ -530,6 +530,7 @@
     "める＆める": "Meru & Meru",
     "アニスの母": "Anise's Mother",
     "イザナミの声": "Izanami's Voice",
+    "エンジニア科の女子生徒": "Engineering Dept. Female Student",
     "エンジニア科の女子生徒１": "Engineering Dept. Female Student 1",
     "エンジニア科の女子生徒２": "Engineering Dept. Female Student 2",
     "エンジニア科の女子生徒３": "Engineering Dept. Female Student 3",
@@ -584,8 +585,25 @@
     "風紀委員１": "Disciplinary Committee Member 1",
     "風紀委員２": "Disciplinary Committee Member 2", 
     "クレーマー": "Complainer", 
-    "クレーマー1": "Complainer 1", 
-    "クレーマー2": "Complainer 2"
+    "クレーマー１": "Complainer 1", 
+    "クレーマー２": "Complainer 2",
+    "アニス・うるう": "Anise / Uruu",
+    "コトハ＆ナージャ＆ジーナ": "Kotoha & Nadja & Gina",
+    "エレーナの声": "Elena's Voice",
+    "母親らしき女性": "Woman Who Seems to Be a Mother",
+    "父親らしき男性": "Man Who Seems to Be a Father",
+    "風紀委員生徒１": "Disciplinary Committee Student 1",
+    "風紀委員生徒２": "Disciplinary Committee Student 2",
+    "強盗１": "Robber 1",
+    "強盗２": "Robber 2",
+    "強盗３": "Robber 3",
+    "強盗４": "Robber 4",
+    "強盗５": "Robber 5",
+    "昔のミア": "Mia (Past)",
+    "昔のリディア": "Lydia (Past)",
+    "泳ぎのうまい女性": "Woman Good at Swimming",
+    "義母": "Stepmother",
+    "義父": "Stepfather"      
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -620,6 +638,14 @@
     "ルドベキア・ファミリー": "Rudbeckia Family",
     "<color=#b6e5cc>トレブルクインテット</color>": "<color=#b6e5cc>Treble Quintet</color>",
     "<color=#e4a8a5>カオスメイデン</color>": "<color=#e4a8a5>Chaos Maiden</color>",
-    "<color=#deb4ff>トリニティ・ジュエル</color>": "<color=#deb4ff>Trinity Jewel</color>"
+    "<color=#deb4ff>トリニティ・ジュエル</color>": "<color=#deb4ff>Trinity Jewel</color>",
+    "<color=#89f4f3>風紀委員会</color>": "<color=#89f4f3>风纪委员会</color>",
+    "<color=#d2c6ed>カラフルブーケ</color>": "<color=#d2c6ed>Colorful Bouquet</color>",
+    "<color=#d5efd1>ユニティエッジ</color>": "<color=#d5efd1>Unity Edge</color>",
+    "<color=#dddf9d>ピクシス・マスール</color>": "<color=#dddf9d>Pyxis Ma Soeur</color>",
+    "<color=#f48981>インスカーレット</color>": "<color=#f48981>Inscarlet</color>",
+    "<color=#ffbcd6>シリウスシュガー</color>": "<color=#ffbcd6>Sirius Sugar</color>",
+    "<color=#ffca96>プレ・クラス－Ａ</color>": "<color=#ffca96>Pre Class A</color>",
+    "スカラ水上スポーツ大会実行委員会": "斯卡拉水上运动大会执行委员会"
   }
 }
