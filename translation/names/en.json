@@ -615,7 +615,23 @@
     "子ども４": "Child 4",
     "孫 玲玲": "Sun Lingling",
     "屋台のおばさん": "Food Stall Lady",
-    "菓子屋の店主": "Candy Shop Owner"
+    "菓子屋の店主": "Candy Shop Owner",
+    "ショッピングモールの店員": "Shopping Mall Employee",
+    "ショッピングモール店員１": "Shopping Mall Employee 1",
+    "ショッピングモール店員２": "Shopping Mall Employee 2",
+    "ショッピングモール店員３": "Shopping Mall Employee 3",
+    "マッサージ店のお姉さん": "Massage Parlor Lady",
+    "先輩ナース": "Senior Nurse",
+    "商店街のおじさん": "Shopping District Old Man",
+    "商店街のおばさん": "Shopping District Old Lady",
+    "商店街の人々": "Shopping District People",
+    "商店街の人達": "Shopping District People",
+    "店内アナウンス": "In-Store Announcement",
+    "迷子の女の子": "Lost Girl",
+    "黒服": "Man in Black",
+    "黒服１": "Man in Black 1",
+    "黒服２": "Man in Black 2",
+    "黒服３": "Man in Black 3"
   },
   "teamNames": {
     "<color=#ffbcd6>シリウスシュガー</material></color>": "<color=#ffbcd6>Sirius Sugar</material></color>",
@@ -658,6 +674,6 @@
     "<color=#f48981>インスカーレット</color>": "<color=#f48981>Inscarlet</color>",
     "<color=#ffbcd6>シリウスシュガー</color>": "<color=#ffbcd6>Sirius Sugar</color>",
     "<color=#ffca96>プレ・クラス－Ａ</color>": "<color=#ffca96>Pre Class A</color>",
-    "スカラ水上スポーツ大会実行委員会": "斯卡拉水上运动大会执行委员会"
+    "スカラ水上スポーツ大会実行委員会": "Scalar Watersports Tournament Executive Committee"
   }
 }
