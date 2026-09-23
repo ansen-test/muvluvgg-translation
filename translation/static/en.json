@@ -45,7 +45,8 @@
       "6章": "Chapter 6",
       "7章": "Chapter 7",
       "8章": "Chapter 8",
-      "9章": "Chapter 9"
+      "9章": "Chapter 9",
+      "10章": "Chapter 10"
     },
     "SubTitle": {
       "プロローグ": "Prologue",
@@ -57,7 +58,8 @@
       "月下に咲くは白百合の旗": "<size=-5><line-height=60%>The White Lily Banner Blooms Beneath the Moon</line-height></size>",
       "刻まれしアナムネーシス": "Engraved Anamnesis",
       "欺かれし星の記憶": "Memories of the Deceived Star",
-      "天鎖封祀": "Heavenly Chain Consecration"
+      "天鎖封祀": "Heavenly Chain Consecration",
+      "自由への意志": "Will Towards Freedom"
     },
     "Description": {
       "シリウスシュガーの少女たちはメイズにて、\n全裸で追いかけられる謎の男性を発見する。\nそれが運命を変える出会いの始まりだった。": "In the Maze, the girls of Sirius Sugar discover a mysterious man being chased around completely naked. That was the beginning of a fate-altering encounter.",
@@ -70,7 +72,8 @@
       "人工スタンピードの犯人『双頭の斧』を一斉検挙するため、学園は大規模作戦を企図。そのため、シリウスシュガーには新たな機体が与えられ――": "<size=80%>To round up the 'Double-Headed Axe', the culprits behind the artificial stampede, the Academy plans a large-scale operation. To that end, Sirius Sugar is provided with new machines—</size>",
       "危機的な状況から、生還した指揮官たち。\nイザナミによって支配されたパイロットを\n救うため、彼らは地上へ反撃に出る――": "Having survived a critical situation, the commanders launch a counteroffensive on the surface to save the pilots controlled by Izanami—",
       "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を守る\nため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu', controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyu units appear—",
-      "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を\n守るため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu,' controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyuu units appear--"
+      "ゾリャー校区に現れたのは、イザナミが操る\n戦略機動要塞『八咫烏』。指揮官達は校区を\n守るため戦いに向かう。そこに５機の天穹が現れ――": "Appearing in the Zorya School District is the strategic mobile fortress 'Yatagarasu,' controlled by Izanami. The commanders head into battle to protect the district. Just then, five Tenkyuu units appear--",
+      "10章のあらすじ": "10章のあらすじ"
     }
   },
   "ChapterMaster": {
@@ -102,7 +105,10 @@
       "8章3節": "Part 3",
       "9章1節": "Part 1",
       "9章2節": "Part 2",
-      "9章3節": "Part 3"
+      "9章3節": "Part 3",
+      "10章1節": "Part 1",
+      "10章2節": "Part 2",
+      "10章3節": "Part 3"
     },
     "SubTitle": {
       "プロローグ": "Prologue",
@@ -140,7 +146,10 @@
       "乙女帰還": "Return of the Maiden",
       "勝利方式": "Formula for Victory",
       "煌色少女": "Radiant Girl",
-      "イベントストーリー": "Event Story"
+      "イベントストーリー": "Event Story",
+      "10章1節": "10章1節",
+      "10章2節": "10章2節",
+      "10章3節": "10章3節"
     },
     "Overview": {
       "「次の公式試合で負ければ退学」\nそんな条件を言い渡されたシリウスシュガー。\n危機感のない彼女たちとの学園生活の中で\n指揮官であるあなたはシリウスシュガーに\n必要な『足りないもの』を見つけ……": "\"Expulsion if you lose the next official match.\" That was the condition handed down to Sirius Sugar. Living alongside these girls who lacked any sense of urgency, you, as their commander, must discover what missing element Sirius Sugar needs...",
@@ -176,7 +185,10 @@
       "指揮官を排除するため、行動を開始した\n戦略機動要塞『八咫烏』。\n強大すぎる敵を前に、一行は直接戦闘を避け、\nイザナミのメインサーバーを叩く作戦を取る。\nドローンによる包囲を突破しようとした時、\nそこに５機の天穹が現れ――": "The strategic mobile fortress Yatagarasu springs into action to eliminate the commander. Facing an overwhelmingly powerful foe, the group avoids direct combat, opting instead for an operation to strike Izanami's main server. Just as they attempt to break through a drone encirclement, five Tenkyu appear...",
       "指揮官の演説を引き金として、\nザルトゥームの生徒達は洗脳から解放された。\nしかし狂乱するイザナミは、演説範囲を\n浄化対象として攻撃を開始する。\n洗脳の解けた各チームは人々を守るべく、\n指揮官と合流して共に戦い始めるのだった。": "Triggered by the commander's speech, the students of Zartum are freed from their brainwashing. Driven to madness, however, Izanami deems the area of the speech a target for purge and launches an attack. Freed from mind control, the various teams gather around the commander to fight alongside one another and protect the people.",
       "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は疲れた様子のタチアナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Tatiana, who looks exhausted...",
-      "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は暗い表情のエレーナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Elena, who wears a gloomy expression..."
+      "生還した神楽を加え、決戦の準備は整った。\nザルトゥームの人々の自由を勝ち取るために、\n一行はイザナミの本体があるセレノシア島を\n目標として最後の作戦へと臨む。\n急ピッチで準備が進められる中、\n指揮官は暗い表情のエレーナを見かけ――": "Joined by the surviving Kagura, preparations for the final battle are complete. To win back freedom for the people of Zartum, the group embarks on their final operation, targeting Selenosia Island where Izanami's main body resides. As preparations proceed at a breakneck pace, the commander catches sight of Elena, who wears a gloomy expression...",
+      "1節あらすじ": "1節あらすじ",
+      "2節あらすじ": "2節あらすじ",
+      "3節あらすじ": "3節あらすじ"
     },
     "Interlude": {
       "桃園めるルート": "Momozono Meru Route",
@@ -247,7 +259,9 @@
       "篁唯依": "Takamura Yui",
       "タリサ・マナンダル": "Tarisa Manandhar",
       "ステラ・ブレーメル": "Stella Bremer",
-      "コトハ": "Kotoha"
+      "コトハ": "Kotoha",
+      "オルガ＆ナージャ": "Olga ＆ Nadja",
+      "ニーナ／ジーナ・ミーシナ": "Nina/Gina Michener"
     },
     "NameRuby": {
       "ももぞのめる": "ももぞのめる",
@@ -300,7 +314,9 @@
       "たかむらゆい": "たかむらゆい",
       "たりさまなんだる": "たりさまなんだる",
       "すてらぶれーめる": "すてらぶれーめる",
-      "ことは": "ことは"
+      "ことは": "ことは",
+      "おるが&なーじゃ": "おるが&なーじゃ",
+      "にーな／じーなみーしな": "にーな／じーなみーしな"
     },
     "Hobby": {
       "料理": "Cooking",
@@ -343,7 +359,9 @@
       "日記をつける（誰にも見せない）": "Keeping a diary (never showing it to anyone)",
       "人をからかうこと": "Teasing people",
       "いろんな茶葉をあつめること": "Collecting various kinds of tea leaves",
-      "食べたことないもの探し": "Searching for foods I've never tried"
+      "食べたことないもの探し": "Searching for foods I've never tried",
+      "読書、ポエムを書く": "Reading, writing poetry",
+      "軍歌・戦詩・英雄叙事詩の朗読・戦術シミュレーションゲーム": "Reciting military songs, war poetry, and epic hero poems; tactical simulation games"
     },
     "Description": {
       "平凡な家庭に生まれた少女。過集中の傾向があり、集中すれば高いパフォーマンスを発揮できるが、一方で周囲とトラブルを起こしてしまった過去も。人の役に立ちたいという気持ちが強い。": "A girl born into an ordinary family. She has a tendency to hyperfocus, which allows her to perform exceptionally well when concentrated, though this has caused troubles with those around her in the past. She has a strong desire to be helpful to others.",
