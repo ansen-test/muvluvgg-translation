@@ -7055,11 +7055,11 @@
       "わっ、わあっ！？　ちょっと、同時に引っ張っちゃダメだよ！？\n先生、千切れちゃうから！": "Wah, woah!? Hey, don't pull me at the same time!? Sensei, I'm going to get torn in half!",
       "終わった後に笑顔で、気持ちよかったって言ってもらえると、\nそれだけですごく嬉しいの。": "When people smile after it's over and tell me how good it felt, that alone makes me so happy.",
       "……さっき、父さんの話をしたでしょ。\nそうしたら、なんだか人恋しくなっちゃって。": "...Just now, I was talking about my father, right?\nWhen I did, I suddenly started feeling a bit lonely and craving company.",
-  "あははっ♪ ここからは、私も本気出すってこと！\n皆、ライバルとしてよろしくねっ！": "Ahaha♪ That means I'm getting serious from here on out!\nI look forward to competing with all of you as rivals!",
+  "あははっ♪　ここからは、私も本気出すってこと！\n皆、ライバルとしてよろしくねっ！": "Ahaha♪ That means I'm getting serious from here on out!\nI look forward to competing with all of you as rivals!",
   "うん……湯船に浸かってるだけで、\n身体がぽかぽかして、気持ちいい……": "Mmm... Just soaking in the tub\nmakes my body feel warm all over, it feels so nice...",
   "え、ええと……多分、使用中の札をかけていたはずですが……": "U-Um... I'm pretty sure I hung up the 'In Use' sign, though...",
-  "める「いらっしゃいませ、指揮官さん！ たくさん食べてくださいね！」\nラミ「ラミ達に接客してもらえるとか超ラッキーじゃん。泣いて喜べよ～？」": "Meru: \"Welcome, Commander! Please eat up and enjoy!\"\nRami: \"Getting served by us is super lucky, you know? Cry tears of joy!\"",
-  "わ、わわわっ！？\nおい！ 急に何すんの、髪ぐっちゃぐちゃになるじゃんか！": "W-Woah, woah, woah!?\nHey! What are you doing all of a sudden? You're completely messing up my hair!",
+  "める「いらっしゃいませ、指揮官さん！　たくさん食べてくださいね！」\nラミ「ラミ達に接客してもらえるとか超ラッキーじゃん。泣いて喜べよ～？」": "Meru: \"Welcome, Commander! Please eat up and enjoy!\"\nRami: \"Getting served by us is super lucky, you know? Cry tears of joy!\"",
+  "わ、わわわっ！？\nおい！　急に何すんの、髪ぐっちゃぐちゃになるじゃんか！": "W-Woah, woah, woah!?\nHey! What are you doing all of a sudden? You're completely messing up my hair!",
   "仮": "TBD",
   "任せて。こっちが今まで頼りにしてきた分、\nこっちも頑張らせてもらうよ。": "Leave it to me. Since I've relied on you so much up until now,\nit's my turn to give it my all.",
   "紡いだ絆が、決戦の地に集う。\\n定められた運命を覆し、『箱庭』を壊す時が来た。": "The bonds we've forged gather at the site of the final battle.\\nThe time has come to overturn our predetermined fate and shatter the 'Miniature Garden.'",
@@ -12159,7 +12159,7 @@
       "鉄壁の母娘": "Ironclad Mother and Daughter",
       "高出力指向性光線砲・中央": "High-Output Directional Beam Cannon (Center)",
       "高出力指向性光線砲・右肩翼": "High-Output Directional Beam Cannon (Right Wing)",
-      "高出力指向性光线砲・左肩翼": "High-Output Directional Beam Cannon (Left Wing)"
+      "高出力指向性光線砲・左肩翼": "High-Output Directional Beam Cannon (Left Wing)"
     },
     "DescriptionTemplates[]::Template": {
       "敵単体に自身の攻撃力の{威力}%で{攻撃回数}回攻撃。": "Attacks a single enemy {攻撃回数} time(s) for {威力}% of own ATK.",
