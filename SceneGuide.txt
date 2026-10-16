@@ -9,6 +9,7 @@ translation/scenes/
 4000xxxx - Character Episodes
     - 4000xxx1 - Story
     - 4000xxx2 - HScene
+*there are exceptions which end in xxx3 and xxx4
 
 5000xxxx - Memory Episodes
     - 5000xxx1 - Story
